@@ -1,0 +1,12 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Large datasets
+data/*.csv
+data/*.csv.gz
+
+# Keep Python models and results
